@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="event_dropdown">
+        <item>Powerchords</item>
+        <item>Travel And Living Quiz</item>
+        <item>Street Sports</item>
+        <item>Decibels</item>
+        <item>On-Spot Creative Writing</item>
+    </string-array>
+</resources>
